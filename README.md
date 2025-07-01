@@ -1,6 +1,6 @@
 Marketing Campaign Performance Analysis
 
-This project examines a multi-channel marketing campaign through a data-driven lens, leveraging Python in Jupyter Notebook to uncover actionable insights. Using user-level interaction data, we explored conversion trends, retention behavior, A/B test performance, and the role of language and demographic alignment in campaign outcomes.
+This project examines a multi-channel marketing campaign through a data-driven lens, leveraging Python in Jupyter Notebook to uncover actionable insights. Using user-level interaction data, I explored conversion trends, retention behavior, A/B test performance, and the role of language and demographic alignment in campaign outcomes.
 
 From exploratory data analysis (EDA) and visualizations to statistical testing, the analysis surfaces patterns that speak directly to personalization, channel strategy, and localization effectiveness.
 
